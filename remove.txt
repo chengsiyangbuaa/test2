@@ -1,2 +1,3 @@
 remove
-badconflict
+badconflict and conflict will be bad
+
